@@ -1,0 +1,141 @@
+#contenedor{ 
+    width: 600px;
+    height: 600px;
+    background-color: grey;
+    margin: 0.5em auto;
+    border-radius: 1em;
+}
+
+#caja{ 
+width:98%;
+height:87%;
+background-color: #FDFEFE;
+margin:  auto;
+border-radius: 1em;
+}
+
+header{ 
+    width: 98%;
+    height: 10%;
+    background-color: gainsboro;
+    margin: 0.5em auto;
+    border-radius: 1em;
+    display: flex;
+    flex-direction: row;
+}
+
+.circulo1{ 
+   width: 30px;
+   height: 30px;
+   background-color:#F39C12;
+   border-radius: 100%;
+   margin: 1em;
+}
+.circulo2{ 
+    width: 30px;
+    height: 30px;
+    background-color: #47CF0C ;
+    border-radius: 100%;
+    margin: 1em;
+}
+.circulo3{ 
+    width: 30px;
+    height: 30px;
+    background-color:#ee0808;
+    border-radius: 100%;
+    margin: 1em;
+ }
+
+nav{
+    display: flex; 
+    flex-direction: row;
+}
+
+.rojo1{ 
+    width: 70%;
+    height: 150px;
+    background-color: #E74C3C;
+    float: left;
+    margin: 0.5em;
+   
+}
+
+.rojo2{
+    width: 50%;
+    height: 150px;
+    background-color: #E74C3C;
+    float: right;
+    margin: 0.5em;
+    
+}
+
+#contenido{
+    width:98%;
+    height: 50%;
+    display: flex; 
+    flex-direction: row;
+    margin:  auto;
+    
+  
+}
+.section{
+    width:51% ;
+    height: 257px ;
+    background-color: #F39C12 ;
+    float: left;
+    margin: 0.2em;
+   
+}
+.aside{
+    width: 99%;
+    height: 190%;
+    background-color: #7D3C98;
+    float: right; 
+    margin: 0.3em ;
+   
+}
+.aside2{
+    width: 99%;
+    height: 190% ;
+    background-color: #7D3C98;
+    float: right;
+    margin: 0.3em ;
+   
+}
+
+#lado{ 
+    width: 98%;
+    height: 101% ;
+    display: flex; 
+    flex-direction: column;
+    float: right;
+    margin: 0.1em;
+   
+}
+
+#azul{ 
+    display: flex; 
+    flex-direction: row;
+}
+
+.azul1{ 
+    width:35% ;
+    height: 80px; ;
+    background-color:#2980B9;
+    margin: 0.5em;
+  
+}
+.azul2{ 
+    width:35% ;
+    height: 80px; ;
+    background-color:#2980B9;
+    margin: 0.5em;
+  
+}
+.azul3{ 
+    width:35% ;
+    height: 80px; ;
+    background-color:#2980B9;
+    margin: 0.5em;
+   
+}
